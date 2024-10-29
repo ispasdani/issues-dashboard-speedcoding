@@ -6,7 +6,7 @@ Node.js
 Git
 
 Begin by cloning the repository from GitHub to your local machine:
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/username/repository-name.git](https://github.com/ispasdani/issues-dashboard-speedcoding.git)
 
 Navigate to the Project Directory
 Install Dependencies
